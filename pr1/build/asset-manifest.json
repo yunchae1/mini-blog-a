@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yunchae1/mini-blog-a/pr1/static/css/main.e6c13ad2.css",
+    "main.js": "/yunchae1/mini-blog-a/pr1/static/js/main.94071e52.js",
+    "static/js/787.2cd3b7b2.chunk.js": "/yunchae1/mini-blog-a/pr1/static/js/787.2cd3b7b2.chunk.js",
+    "index.html": "/yunchae1/mini-blog-a/pr1/index.html",
+    "main.e6c13ad2.css.map": "/yunchae1/mini-blog-a/pr1/static/css/main.e6c13ad2.css.map",
+    "main.94071e52.js.map": "/yunchae1/mini-blog-a/pr1/static/js/main.94071e52.js.map",
+    "787.2cd3b7b2.chunk.js.map": "/yunchae1/mini-blog-a/pr1/static/js/787.2cd3b7b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.94071e52.js"
+  ]
+}
